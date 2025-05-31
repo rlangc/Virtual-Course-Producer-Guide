@@ -61,7 +61,7 @@ The Virtual Course Producer ensures virtual learning sessions run smoothly by su
 
 | Category | Prompt Example |
 |---------|----------------|
-| **Opening** | “Good morning, everyone! Welcome to Day 3 of [Course Name]. My name is [Name], your producer today. If you have any connectivity issues or tech concerns, please reach out directly in the chat.” |
+| **Opening** | “Good morning, everyone! Welcome to [Course Name]. My name is [Name], your producer today. If you have any connectivity issues or tech concerns, please reach out directly in the chat.” |
 | **Breaks** | “Please take a 5-minute break and return at [Time].”<br>“Please break for lunch and return at [Time].” |
 | **T-Minus Warnings** | “T-minus 5 minutes; Be sure to capture feedback for your exercise!”<br>“T-minus 1 minute; please have your spokesperson ready!” |
 | **Breakout Room Checks** | “Checking in — how’s the activity going in your breakout room? Any questions, comments, concerns? Throw them in the chat, please!” |
