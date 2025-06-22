@@ -67,15 +67,6 @@ The Virtual Course Producer ensures virtual learning sessions run smoothly by su
 | **Breakout Room Checks** | “Checking in — how’s the activity going in your breakout room? Any questions, comments, concerns? Throw them in the chat, please!” |
 | **Session Transition** | “Copy that, rooms closing. We’ll begin pulling you back to the main room shortly!” |
 
-## Optional Add-Ons for Repository or Print
-
-- **Printable Job Aid** (PDF format)
-- **Prompt Sheet** (Scripted messages for various scenarios)
-- **Poll Planning Template**
-- **Breakout Room Management Guide**
-- **Attendance Sheet Formatting Quick Guide**
-- **Checklist for Session Lifecycle** (Pre, During, Post)
-
 <h2></h2>
 <p align="center">
   <a href="https://github.com/rlangc"><b>Return to Home</b></a>
